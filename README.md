@@ -16,12 +16,12 @@ Simply clone the repo, perhaps stick the script somewhere on your PATH.
 ```bash
 $ git clone https://github.com/duck-sec/cowpass
 cd cowpass
+chmod +x cowpass.py
 ```
 
 ## Usage
 
 ```bash
-chmod +x cowpass.py
 cowpass.py <length of password>
 ```
 
